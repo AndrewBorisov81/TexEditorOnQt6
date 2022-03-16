@@ -1,0 +1,6 @@
+-Add CMakeFile.txt.user files for Ubuntu(QtCreator) to this folder
+
+1.Open QtCreator(Ubuntu);
+2.CreateProject --> Application(Qt) --> Qt Widget Application --> ProjectName --> TexEditorOnQt6;
+3.Find file CMakeFile.txt.user;
+4.Paste the file into the project template in the proj.linux folder;
